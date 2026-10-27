@@ -37,7 +37,7 @@ namespace _2200_GardnerA_Participation04.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\ashly\\Downloads\\UVU" +
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"<PATH_TO_DATABASE>" +
             "PhoneNums (1).mdf\";Integrated Security=True;Connect Timeout=30")]
         public string UVUPhoneNums__1_ConnectionString {
             get {
@@ -48,8 +48,7 @@ namespace _2200_GardnerA_Participation04.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=bigdataa.ad.uvu.edu;Initial Catalog=INFO2200Crandall;User ID=jbmuser;" +
-            "Password=jellybellymovie;TrustServerCertificate=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("<Database connection removed for security purposes>")]
         public string INFO2200CrandallConnectionString {
             get {
                 return ((string)(this["INFO2200CrandallConnectionString"]));
